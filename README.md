@@ -13,7 +13,7 @@ git clone + link
 * yarn start
 
 ## Layout da aplicação
-<img src="/1.png" width="715" height="715"/>
+<img src="/1.png" width="715" height="500"/>
 <img src="/2.png" width="375" height="715" />
 <img src="/3.png" width="375" height="715"/>
 <img src="/4.png" width="375" height="715"/>
