@@ -4,6 +4,9 @@
 * REACT
 * TYPESCRIPT
 
+## Link do vídeo
+https://www.youtube.com/watch?v=Mr3NgymNx04
+
 ## Clonar o repositório:
 git clone + link
 
